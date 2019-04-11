@@ -1,0 +1,5 @@
+To do:
+1) Import parallel processing on distance checking 
+2) Improve distance checking algorithm
+3) Change from fixed numebr of samples to adaptive sampling
+
